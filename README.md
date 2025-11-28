@@ -31,7 +31,7 @@ A livraria Refúgio Literário vende livros de diversos autores e editoras. Os c
 
 📌 3. Como Executar
 
-Importar o arquivo Livraria_Refugio_Literario.sql no seu banco (MySQL / MariaDB / SQLite).
+Importar o arquivo Livraria_Refugio_Literario.sql dentro da pasta /docs no seu banco (MySQL / MariaDB / SQLite).
 Executar os SELECTs, UPDATEs e DELETEs conforme desejar.
 
 ********************************************************************************************
