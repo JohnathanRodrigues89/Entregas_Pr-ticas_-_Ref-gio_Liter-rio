@@ -47,4 +47,5 @@ MySQL / MariaDB / SQLite (compatível)
 📌 7. Autor
 
 Johnathan Rodrigues da Silva
-Projeto acadêmico — Modelagem de Banco de Dados.
+
+Projeto acadêmico - Modelagem de Banco de Dados.
